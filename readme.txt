@@ -1,2 +1,2 @@
-Git is a version control system.
-GIt is free sofaware
+Git is a distributed version control system.
+GIt is free sofaware distributed under the GPL.
